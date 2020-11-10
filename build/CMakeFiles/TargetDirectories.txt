@@ -1,0 +1,3 @@
+/root/NetworkStudy/build/CMakeFiles/rebuild_cache.dir
+/root/NetworkStudy/build/CMakeFiles/demo.dir
+/root/NetworkStudy/build/CMakeFiles/edit_cache.dir
